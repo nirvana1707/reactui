@@ -1,0 +1,9 @@
+.cartList {
+    text-align: right;
+    list-style: square;
+}
+
+li {
+    text-align: left;
+    padding-right: 30px;
+}

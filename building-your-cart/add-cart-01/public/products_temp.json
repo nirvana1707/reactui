@@ -1,0 +1,30 @@
+[
+    {
+        "code": "PR01",
+        "name": "Laptop",
+        "description": "A portable personal computer, with a LCD/LED screen",
+        "price": 10000,
+        "selected": false
+    },
+    {
+        "code": "PR02",
+        "name": "Desktop",
+        "description": "A personal computer dedicated for desk/table usage",
+        "price": 20000,
+        "selected": false
+    },
+    {
+        "code": "PR03",
+        "name": "Plasma TV",
+        "description": "To cater to your watching needs",
+        "price": 30000,
+        "selected": false
+    },
+    {
+        "code": "PR04",
+        "name": "Tablet",
+        "description": "A type of moble device better portable than a laptop",
+        "price": 40000,
+        "selected": false
+    }
+]
