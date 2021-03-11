@@ -1,0 +1,9 @@
+.productCatalog {
+    width: 50%;
+    float: left;
+}
+
+.cartCatalog {
+    width: 30%;
+    float: right;
+}
